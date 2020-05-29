@@ -38,11 +38,22 @@ resetconnection(\x) Clean session context.
 For server side help, type 'help contents'
 
 
-* read = select 
 
-       select * from schema_name.table_name;
+For server side help, type 'help contents'
+
+mysql> \r
+Connection id:    15
+Current database: *** NONE ***
+
+
       
- * add column to old table = alter...add...
+
+* add column to old table = alter...add...
  
  
        alter table schema_name.table_name add column_a int not null;
+       
+       
+* read = select 
+
+       select * from schema_name.table_name;
