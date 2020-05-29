@@ -1,7 +1,7 @@
 # SQL_Statement
 結構型資料的搜索述句
 
-* Brew install MySQL
+* Brew install MySQL 
 
   https://ken.io/note/macos-mysql8-install-config-tutorial
   
