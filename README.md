@@ -38,6 +38,7 @@ resetconnection(\x) Clean session context.
 For server side help, type 'help contents'
 
 
+* connect 
 
 For server side help, type 'help contents'
 
