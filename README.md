@@ -4,9 +4,11 @@
 
 # Start SQL Server
 
-    mysql -u root -p
+    mysql -u root -h IP -p port
     
     /r
+    
+    /q
 
 
 * Brew install MySQL 
