@@ -1,6 +1,14 @@
 # SQL_Statement
 結構型資料的搜索述句
 
+
+# Start SQL Server
+
+    mysql -u root -p
+    
+    /r
+
+
 * Brew install MySQL 
 
   https://ken.io/note/macos-mysql8-install-config-tutorial
