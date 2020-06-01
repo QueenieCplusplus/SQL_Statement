@@ -4,7 +4,7 @@
 
 # Start SQL Server
 
-    mysql -u root -h IP -p port
+    mysql -u Account_Name -h IP -p port
     
     /r
     
