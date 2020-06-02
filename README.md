@@ -68,3 +68,7 @@ Current database: *** NONE ***
 * read = select 
 
        select * from schema_name.table_name;
+       
+* rename column
+
+        alter table table_name change old_column_name new_column_name dataType; 
