@@ -48,13 +48,13 @@
         For server side help, type 'help contents'
 
 
-* connect 
+* connect 連線資料庫指令
 
 For server side help, type 'help contents'
 
-mysql> \r
-Connection id:    15
-Current database: *** NONE ***
+    mysql> \r
+    Connection id:    15
+    Current database: *** NONE ***
 
 
 * add column to old table = alter...add... 追加欄位
