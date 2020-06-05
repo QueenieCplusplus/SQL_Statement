@@ -57,18 +57,20 @@ Connection id:    15
 Current database: *** NONE ***
 
 
-      
-
-* add column to old table = alter...add...
+* add column to old table = alter...add... 追加欄位
  
  
        alter table schema_name.table_name add column_a int not null;
        
        
-* read = select 
+* read = select 讀出
 
        select * from schema_name.table_name;
        
-* rename column
+* write = insert 寫入
+     
+       insert into table_name value(param1, param2, null, param...)  
+       
+* rename column 更名（重新命名）
 
         alter table table_name change old_column_name new_column_name dataType; 
